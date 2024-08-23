@@ -35,6 +35,11 @@ nav {
     max-width: 100px;
 }
 
+.socmedlogo img {
+    max-width: 50px;
+}
+
+
 nav ul {
     list-style: none;
     display: flex;
