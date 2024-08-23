@@ -18,7 +18,7 @@ header {
     background-image: url(background.jpg);
     background-position: center;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    padding: 120px;
+    padding: 125px;
     width: inherit;
 }
 
@@ -43,6 +43,11 @@ nav {
 .menulogo img {
     max-width: 300px;
 }
+
+.managerimg img {
+    max-width: 230px;
+}
+
 
 nav ul {
     list-style: none;
